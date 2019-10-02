@@ -9,7 +9,7 @@ for (let i = 0; i < wilders.length; i++){
 
 const chalk = require('chalk');
 
-console.log(chalk.yellow.bgBlue.bold('B'));
-console.log(chalk.blue.bgMagenta.bold('H'))
-console.log(chalk.green.bgRed.bold('M'))
-console.log(chalk.yellowBright.bgGreen.bold('A'));
+console.log(chalk.yellow.bgBlue.bold('Bulma'));
+console.log(chalk.blue.bgMagenta.bold('Chirac'));
+console.log(chalk.green.bgRed.bold('Conan'));
+console.log(chalk.yellowBright.bgGreen.bold('Dr Slump'));
